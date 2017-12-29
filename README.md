@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -24,9 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-=======
-# nrlfantasy
->>>>>>> 6aa962638c2770b8be3b38a8e7406523de916910
-=======
-# nrlfantasy
->>>>>>> 6aa962638c2770b8be3b38a8e7406523de916910
